@@ -3,3 +3,4 @@ tmp/
 builds/
 mygame/*_state.txt
 mygame/saves/*.txt
+mygame/data/*.txt
